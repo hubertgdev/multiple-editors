@@ -110,7 +110,6 @@ Tave a look to the following script in order to understand how to implement your
 
 - [`DemoCustomObjectEditor.cs`](./Editor/Demos/DemoCustomObjectEditor.cs): Contains a bundle of custom editor extensions for `GameObject`, `Transform` and `Rigidbody`. Enable these demo classes by uncommenting the second line of the script
 - [`GameObjectMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/GameObjectMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `GameObject`
-- [`GameObjectMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/GameObjectMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `GameObject`
 - [`TransformMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/TransformMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `Transform`
 - [`RigidbodyMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/RigidbodyMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `Rigidbody`
 
