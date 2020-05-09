@@ -1,0 +1,18 @@
+{
+	"name": "com.muffindev.multipleeditors",
+	"version": "1.0.0",
+	"displayName": "MuffinDev - Multiple Editors",
+	"description": "Allows you to create multiple editor extensions that target the same type.",
+	"unity": "2017.4",
+	"keywords": [
+		"Utility",
+		"Multiple",
+		"Editor",
+		"Extension"
+	],
+	"author": {
+		"name": "Hubert Grossin",
+		"email": "hubert.grossin@gmail.com",
+		"url": "https://www.linkedin.com/in/hubert-grossin/"
+	}
+}
