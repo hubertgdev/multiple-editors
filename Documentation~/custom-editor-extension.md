@@ -1,6 +1,6 @@
 # Muffin Dev for Unity - Multiple Editors Manager - `CustomEditorExtension`
 
-Represents an editor extension for an actual Unity Editor instance that inherits from [`MultipleEditorsHandler`](multiple-editors-handler.md).
+Represents an editor extension for an actual Unity Editor instance that inherits from [`MultipleEditorsHandler`](./multiple-editors-handler.md).
 
 You must inherit from this class to create a custom editor extension and register it with the `MultipleEditorsManager`.
 

@@ -89,20 +89,20 @@ Note that native objects (like `GameObject` or `Transform`) can have a special b
 
 ## Classes
 
-- [`CustomEditorExtension`](custom-editor-extension.md): The base class for all custom editor extension
-- [`MultipleEditorsHandler`](multiple-editors-manager-handler.md): The base class of any custom multiple editors handler
-- [`MultipleEditorsManager`](multiple-editors-manager.md): The main manager that stores registered custom editor extensions
-- [`NativeObjectMultipleEditorsHandler`](native-object-multiple-editors-handler.md): The base class of any custom multiple editors handler that targets a native object (like `Transform` for example)
+- [`CustomEditorExtension`](./custom-editor-extension.md): The base class for all custom editor extension
+- [`MultipleEditorsHandler`](./multiple-editors-manager-handler.md): The base class of any custom multiple editors handler
+- [`MultipleEditorsManager`](./multiple-editors-manager.md): The main manager that stores registered custom editor extensions
+- [`NativeObjectMultipleEditorsHandler`](./native-object-multiple-editors-handler.md): The base class of any custom multiple editors handler that targets a native object (like `Transform` for example)
 
 ### Data classes
 
-- [`CustomEditorExtensionOptions`](custom-editor-extension-options.md): Represents the default settings of a custom editor extension
-- [`CustomEditorExtensionSettings`](custom-editor-extension-settings.md): Contains the current user defined settings of a custom editor extension
+- [`CustomEditorExtensionOptions`](./custom-editor-extension-options.md): Represents the default settings of a custom editor extension
+- [`CustomEditorExtensionSettings`](./custom-editor-extension-settings.md): Contains the current user defined settings of a custom editor extension
 
 ### Editor classes
 
-- [`MultipleEditorsManagerEditor`](multiple-editors-manager-editor.md): The custom editor for `MultipleEditorsManager` asset
-- [`MultipleEditorsManagerWindow`](multiple-editors-manager-window.md): Utility window that allows you to manage custom editor extensions from the editor
+- [`MultipleEditorsManagerEditor`](./multiple-editors-manager-editor.md): The custom editor for `MultipleEditorsManager` asset
+- [`MultipleEditorsManagerWindow`](./multiple-editors-manager-window.md): Utility window that allows you to manage custom editor extensions from the editor
 
 ## Demos and presets
 
