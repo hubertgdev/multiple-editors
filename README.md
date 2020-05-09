@@ -4,6 +4,8 @@ Allows you to create multiple editor extensions for the same target type through
 
 ![Preview of the Multiple Editors Manager window](./Documentation~/Images/multiple-editors-manager-window.png)
 
+![Inspector view when demos enabled](./Documentation~/Images/multiple-editors-manager-demo.png)
+
 ## Architecture
 
 The Multiple Editors system involve three classes: [`CustomEditorExtension`](./Documentation~/custom-editor-extension.md), [`MultipleEditorsHandler`](./Documentation~/multiple-editors-handler.md) and [`MultipleEditorsManager`](./Documentation~/multiple-editors-manager.md):
