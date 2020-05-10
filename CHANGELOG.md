@@ -19,3 +19,10 @@
 ## [1.0.4] - 2020-05-09
 ### Changed
 - Fix docs typo
+
+## [1.1.0] - 2020-05-10
+### Added
+- Add multiple editors handler for MonoScript
+- Add multiple editors handler for textAsset
+### Changed
+- Update docs for the added elements

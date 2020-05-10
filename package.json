@@ -1,6 +1,6 @@
 {
 	"name": "com.muffindev.multipleeditors",
-	"version": "1.0.4",
+	"version": "1.1.0",
 	"displayName": "MuffinDev - Multiple Editors",
 	"description": "Allows you to create multiple editor extensions that target the same type.",
 	"unity": "2017.4",

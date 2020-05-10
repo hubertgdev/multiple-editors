@@ -106,12 +106,14 @@ Note that native objects (like `GameObject` or `Transform`) can have a special b
 
 ## Demos and presets
 
-Tave a look to the following script in order to understand how to implement your own custom editors or your own custom multiple editors handler:
+This package already contains multiple editors handlers for some built-in types. You can also find a script that contains several demo custom editor extensions:
 
 - [`DemoCustomObjectEditor.cs`](./Editor/Demos/DemoCustomObjectEditor.cs): Contains a bundle of custom editor extensions for `GameObject`, `Transform` and `Rigidbody`. Enable these demo classes by uncommenting the second line of the script
 - [`GameObjectMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/GameObjectMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `GameObject`
-- [`TransformMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/TransformMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `Transform`
+- [`MonoScriptMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/MonoScriptMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `MonoScript`
 - [`RigidbodyMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/RigidbodyMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `Rigidbody`
+- [`TextAssetMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/TextAssetMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `TextAsset`
+- [`TransformMultipleEditors.cs`](./Editor/NativeObjectMultipleEditorsHandlers/TransformMultipleEditors.cs): Implements `NativeObjectMultipleEditorsHandler` to create a multiple editors handler for `Transform`
 
 ## License
 
