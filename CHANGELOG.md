@@ -26,3 +26,7 @@
 - Add multiple editors handler for textAsset
 ### Changed
 - Update docs for the added elements
+
+## [1.1.1] - 2020-05-10
+### Added
+- Add MultipleEditorsManager asset
