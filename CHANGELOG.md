@@ -30,3 +30,7 @@
 ## [1.1.1] - 2020-05-10
 ### Added
 - Add MultipleEditorsManager asset
+
+## [1.2.0] - 2020-05-10
+### Changed
+- AutoReference Assembly
