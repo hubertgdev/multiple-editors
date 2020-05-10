@@ -34,3 +34,7 @@
 ## [1.2.0] - 2020-05-10
 ### Changed
 - AutoReference Assembly
+
+## [1.2.1] - 2020-05-10
+### Changed
+- Rename Multiple Editors Assembly file
