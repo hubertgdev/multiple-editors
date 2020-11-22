@@ -1,3 +1,9 @@
+# ⚠️ Deprecation warning ⚠️
+
+Sorry for the inconvenience, but this package has been moved in my **Muffin Dev for Unity** library, so this one won't be updated.
+
+**Find the new repository at [https://gitlab.com/muffin-dev/unity/standalone/multiple-editors](https://gitlab.com/muffin-dev/unity/standalone/multiple-editors)**
+
 # Muffin Dev for Unity - Multiple Editors Manager
 
 Allows you to create multiple editor extensions for the same target type through code. In the editor, you can use the manager's window to set these custom editor options : enable/disable them, change their order, etc.
