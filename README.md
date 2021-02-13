@@ -6,6 +6,8 @@ Sorry for the inconvenience, but this package has been moved in my **Muffin Dev 
 
 # Muffin Dev for Unity - Multiple Editors Manager
 
+[![openupm](https://img.shields.io/npm/v/com.muffindev.multipleeditors?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.muffindev.multipleeditors/)
+
 Allows you to create multiple editor extensions for the same target type through code. In the editor, you can use the manager's window to set these custom editor options : enable/disable them, change their order, etc.
 
 ![Preview of the Multiple Editors Manager window](./Documentation~/Images/multiple-editors-manager-window.png)
